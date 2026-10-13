@@ -9,14 +9,14 @@ This file is the single status ledger. Bilal updates the Status block and ticks 
 
 | Field | Value |
 |---|---|
-| Current week | 0 (Setup) |
+| Current week | 0 (Setup) — in progress |
 | Phase | 0 — Setup |
-| Week started | 2026-10-10 (Sat) |
-| Week 1 starts | 2026-10-12 (Mon) |
-| Planned end of Phase 5 (Week 26) | 2027-04-10 (Sat) |
-| Hours this week | 0 / 12 |
-| Last review | — |
-| Next session goal | Finish Week 0 setup, then "Week 1 start" in the project |
+| Week started | 2026-10-13 (Tue) — actual start; planned 2026-10-12 |
+| Week 1 starts | 2026-10-14 (Wed) — one day behind plan; Saturday absorbs the slip |
+| Planned end of Phase 5 (Week 26) | 2027-04-10 (Sat) — unchanged |
+| Hours this week | 2 / 12 |
+| Last review | 2026-10-13 — Week 0 day 1 verified by Claude (repo, README, devlog #1) |
+| Next session goal | Finish Week 0 (intro video + AI assistant), then "Week 1 start" in the project |
 
 ---
 
@@ -91,17 +91,20 @@ Tick `[x]` when you believe it is done. Claude writes `verified YYYY-MM-DD` afte
 
 ## Open items
 
-- (none yet)
+- W0: Record 60-second intro video (English)
+- W0: Install one AI assistant (Copilot / Claude Code / Cursor)
+- Fill or remove the empty 2026-10-10 devlog entry
 
 ## Blockers
 
-- (none yet)
+- (none — git push hang on 2026-10-13 was the credential manager; resolved)
 
 ## Plan decisions (schedule and scope only — technical decisions go in docs/decisions.md)
 
 | Date | Decision | Why |
 |---|---|---|
 | 2026-10-10 | Start Week 0 on Sat 10 Oct; Week 1 on Mon 12 Oct | Roadmap delivered today |
+| 2026-10-13 | Actual start slipped to Tue 13 Oct (one day); Week 1 starts Wed 14 Oct; calendar dates unchanged, Saturday is the catch-up day | Monday was missed; buffer rules in roadmap §5.3 |
 
 ## Review log (filled by Claude at each Saturday review)
 
