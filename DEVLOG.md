@@ -34,3 +34,9 @@ Rules: plain English, short sentences, no copying from docs. Mistakes are fine â
 - **Did:**
 - **Learned:**
 - **Blocked:**
+
+
+### 2026-10-13 (Tuesday) â€” Week 0
+- **Did:** I created a new GitHub repo as public with default configurations. And then setup/connected this repo with my local project by setting remote origin/repo link, adding all files to staging, committing, and then pushing to remote origin (main branch).
+- **Learned:** I learned how to make a repo on GitHub as a public repo. How to connect a repo with local project via cmd/terminal (commands). How to add files in staging, and then how to check status, and how to commit with messages, and what the best practices are for commit and naming conventions, and then how to push for a first time with -u and how to push without -u for next time, and the concept behind -u.
+- **Blocked:** Nothing today.
