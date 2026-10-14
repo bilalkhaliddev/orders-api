@@ -20,7 +20,7 @@ Rules: plain English, short sentences, no copying from docs. Mistakes are fine â
 
 ### 2026-10-14 (Wednesday) â€” Week 0
 
-- **Did:** Downloaded & Installed VS Code as an IDE for this project and even for my all future projects. Before this I used to for Sublime. But it's time to switch from Sublime to VS Code. After insallation I just installed 2 extensions - first php linter and second laravel official extension. And then I installed AI assistance (Claude Code) and tested that it's working fine. But during the test I found that my Claude Code was connected with an old account and I had to change this account to my new existing account. Which was very easy to connect. After connecting new account I just relaunched IDE again and tested again and it was all OK now. 
+- **Did:** Downloaded & Installed VS Code as an IDE for this project and even for my all future projects. Before this I used to use Sublime. But it's time to switch from Sublime to VS Code. After installation I just installed 2 extensions - first php linter and second laravel official extension. And then I installed AI assistance (Claude Code) and tested that it's working fine. But during the test I found that my Claude Code was connected with an old account and I had to change this account to my new existing account. Which was very easy to connect. After connecting new account I just relaunched IDE again and tested again and it was all OK now. 
 
 - **Learned:** I learned how to install and setup VS Code and learned how to install Claude Code with VS Code.
 
