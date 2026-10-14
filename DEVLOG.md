@@ -16,27 +16,22 @@ Every Saturday, add a **Week summary** (5–8 lines): what shipped, checkpoint s
 
 Rules: plain English, short sentences, no copying from docs. Mistakes are fine — fluency comes from writing daily, not from writing perfectly.
 
----
-
-## Example entry (delete after your first real one)
-
-### 2026-10-13 (Mon) — Week 1
-- **Clarifying question:** Should Money store amounts as integers (cents) or floats? Going with integers to avoid rounding errors.
-- **Did:** Set up the money-calc package with Composer PSR-4 autoload; wrote the Money value object and the Currency enum.
-- **Learned:** `declare(strict_types=1)` only affects calls made from the file that declares it, not calls into it.
-- **Blocked:** Not sure when to use an interface vs an abstract class for TaxRule. Will ask in the project tomorrow.
-
----
-
 ## Entries
 
-### 2026-10-10 (Sat) — Week 0
-- **Did:**
-- **Learned:**
-- **Blocked:**
+### 2026-10-14 (Wednesday) — Week 0
 
+- **Did:** Downloaded & Installed VS Code as an IDE for this project and even for my all future projects. Before this I used to for Sublime. But it's time to switch from Sublime to VS Code. After insallation I just installed 2 extensions - first php linter and second laravel official extension. And then I installed AI assistance (Claude Code) and tested that it's working fine. But during the test I found that my Claude Code was connected with an old account and I had to change this account to my new existing account. Which was very easy to connect. After connecting new account I just relaunched IDE again and tested again and it was all OK now. 
+
+- **Learned:** I learned how to install and setup VS Code and learned how to install Claude Code with VS Code.
+
+- **Blocked:** PowerShell blocked npm scripts (execution policy). Fixed with Set-ExecutionPolicy RemoteSigned.
 
 ### 2026-10-13 (Tuesday) — Week 0
 - **Did:** I created a new GitHub repo as public with default configurations. And then setup/connected this repo with my local project by setting remote origin/repo link, adding all files to staging, committing, and then pushing to remote origin (main branch).
 - **Learned:** I learned how to make a repo on GitHub as a public repo. How to connect a repo with local project via cmd/terminal (commands). How to add files in staging, and then how to check status, and how to commit with messages, and what the best practices are for commit and naming conventions, and then how to push for a first time with -u and how to push without -u for next time, and the concept behind -u.
+- **Blocked:** Nothing today.
+
+### 2026-10-10 (Sat) — Week 0
+- **Did:** I just setup a Project with Claude (Web) to get assistance as well. And verified my local server environment and setup for this journey. 
+- **Learned:** I learned how to setup a project in local directory and also how to setup a project with Claude (Web) to get or to make my this journey by tracking my progress as well and by getting AI as my Mentor.
 - **Blocked:** Nothing today.
